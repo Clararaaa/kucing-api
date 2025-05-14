@@ -1,0 +1,22 @@
+[
+  {"nama": "Kucing Persia", "warna": "Putih", "asal": "Iran"},
+  {"nama": "Kucing Bengal", "warna": "Coklat", "asal": "AS"},
+  {"nama": "Kucing Anggora", "warna": "Putih", "asal": "Turki"},
+  {"nama": "Kucing Siam", "warna": "Krem & Coklat", "asal": "Thailand"},
+  {"nama": "Kucing Maine Coon", "warna": "Abu-abu", "asal": "Amerika Serikat"},
+  {"nama": "Kucing Sphynx", "warna": "Pink pucat", "asal": "Kanada"},
+  {"nama": "Kucing British Shorthair", "warna": "Abu-abu", "asal": "Inggris"},
+  {"nama": "Kucing Scottish Fold", "warna": "Putih & Abu", "asal": "Skotlandia"},
+  {"nama": "Kucing Ragdoll", "warna": "Putih & Coklat", "asal": "Amerika Serikat"},
+  {"nama": "Kucing Abyssinian", "warna": "Merah kecoklatan", "asal": "Etiopia"},
+  {"nama": "Kucing Birman", "warna": "Putih & Krem", "asal": "Myanmar"},
+  {"nama": "Kucing Oriental", "warna": "Hitam", "asal": "Thailand"},
+  {"nama": "Kucing Russian Blue", "warna": "Abu kebiruan", "asal": "Rusia"},
+  {"nama": "Kucing Turkish Van", "warna": "Putih dengan ekor coklat", "asal": "Turki"},
+  {"nama": "Kucing Munchkin", "warna": "Beragam", "asal": "Amerika Serikat"},
+  {"nama": "Kucing Savannah", "warna": "Totol seperti macan", "asal": "Afrika"},
+  {"nama": "Kucing Manx", "warna": "Hitam & Putih", "asal": "Pulau Man"},
+  {"nama": "Kucing Balinese", "warna": "Putih & Hitam", "asal": "Amerika Serikat"},
+  {"nama": "Kucing American Curl", "warna": "Putih & Oranye", "asal": "Amerika Serikat"},
+  {"nama": "Kucing Chartreux", "warna": "Abu gelap", "asal": "Prancis"}
+]
