@@ -10,4 +10,5 @@
   {"nama": "Kucing Ragdoll", "asal": "Amerika Serikat", "imageId": "kucingragdoll"},
   {"nama": "Kucing Abyssinian", "asal": "Etiopia", "imageId": "kucingabyssinian"},
   {"nama": "Kucing Birman", "asal": "Myanmar", "imageId": "kucingbirman"},
+  {"nama": "Kucing Russian Blue", "asal": "Rusia", "imageId": "kucingrussianblue"},
 ]
